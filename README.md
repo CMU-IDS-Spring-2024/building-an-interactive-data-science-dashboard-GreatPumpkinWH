@@ -34,3 +34,16 @@ Doxepin. The age distribution of overall dataset is that the number of male  inv
 ### 4.Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
 Yes. We can add incident zip code to integrate a map to visualize geographic patterns which could reveal regional trends or hotspots. And I think adding the total number of people by gender, race, and age for different years can indeed provide a more comprehensive view of the dataset. 
+
+## Questions of part b
+### 1.
+I discovered that in addition to the few drugs that account for the majority of fatalities, many other substances actually contribute to a very small number of deaths annually, as depicted by very low and flat graphs in the dataset, and the changes in this segment are not very pronounced in the chart, suggesting that our analysis may ought to primarily focus on the few categories of drugs that constitute the majority of fatalities. Additionally, the trends in the number of deaths caused by different drugs may vary significantly, some of which is stale while other may crease or decrease apparently.
+### 2.
+
+Yes, there are some differences.
+Comparing the situation in earlier years with more recent ones, we observe that the annual fatality numbers for some drugs have remained relatively stable, such as Clonazepam and Methadone. However, for others, there was a noticeable increase in recent years compared to earlier ones, such as Fentanyl and Cocaine. Additionally, compared to earlier years, recent years have seen a decline in the number of fatalities for some substances, such as Alcohol.
+
+### 3.
+
+Age: We can compute mean death age of each year. Maybe we can find some interesting trend of this feature.
+Combined_OD2: This variable could indicate the secondary drug involved in an overdose incident. Analyzing primary and secondary drugs together could provide insights into common drug combinations that result in overdoses.
