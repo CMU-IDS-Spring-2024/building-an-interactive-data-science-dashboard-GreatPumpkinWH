@@ -47,3 +47,14 @@ Comparing the situation in earlier years with more recent ones, we observe that 
 
 Age: We can compute mean death age of each year. Maybe we can find some interesting trend of this feature.
 Combined_OD2: This variable could indicate the secondary drug involved in an overdose incident. Analyzing primary and secondary drugs together could provide insights into common drug combinations that result in overdoses.
+
+## Questions of part c
+### 1.
+There appears to be a high concentration of overdose incidents in the central urban areas around Pittsburgh, particularly in neighborhoods like North Side and South Side. And the suburban areas surrounding Pittsburgh seem to have fewer overdose incidents, as evidenced by the smaller circles or lack of circles in those areas on the map
+
+### 2.
+Key differences in the earlier years versus the more recent years are that the overdose incidents have transitioned from being relatively spread out geographically to becoming much more concentrated and densely packed within the central Pittsburgh neighborhoods in recent years.
+
+### 3.
+Demographic filters such as age, gender, race/ethnicity could reveal important trends and help identify high-risk populations for targeted intervention efforts.
+Drug type filter can help explore overdoses that inform targeted harm reduction strategies.
